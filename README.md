@@ -1,7 +1,7 @@
 # สำหรับ SOS Camp
 ## สิ่งที่ต้องมี
-- Java Development Kit (JDK)
-- Eclipse IDE
+- [Java Development Kit (JDK)](#java-development-kit-jdk)
+- [Eclipse IDE](#eclipse-ide)
 
 ## Java Development Kit (JDK)
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
