@@ -5,13 +5,19 @@
 
 ## Java Development Kit (JDK)
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-#### Download
+### Download
 http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
 - ติ้กถูกหน้า Accept License Agreement
 - เลือกลิ้งก์โหลดตาม OS ของเครื่องที่เราใช้
 - (Mac OS X คือ แมค)
 - (Windows x64 คือ 64-bit)
 - (Windows x86 คือ 32-bit)
+- [Windows (32 bit)](http://download.oracle.com/otn-pub/java/jdk/8u131-b11/d54c1d3a095b4ff2b6607d096fa80163/jdk-8u131-windows-i586.exe
+)
+- [Windows (64 bit)](http://download.oracle.com/otn-pub/java/jdk/8u131-b11/d54c1d3a095b4ff2b6607d096fa80163/jdk-8u131-windows-x64.exe
+)
+- [MacOS](http://download.oracle.com/otn-pub/java/jdk/8u131-b11/d54c1d3a095b4ff2b6607d096fa80163/jdk-8u131-macosx-x64.dmg
+)
 
 ## Eclipse IDE
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
