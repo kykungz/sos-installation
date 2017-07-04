@@ -4,7 +4,7 @@
 - [Eclipse IDE](#eclipse-ide)
 
 ## Java Development Kit (JDK)
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Java Development Kit (JDK) คือชุดเครื่องมือช่วยพัฒนาโปรแกรมภาษา Java พูดง่ายๆก็คือเอาไว้ รัน + เขียน ภาษาจาวานั่นละงับ
 ### Download
 http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
 - ติ้กถูกหน้า Accept License Agreement
@@ -14,7 +14,7 @@ http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.h
 - (Windows x86 คือ 32-bit)
 
 ## Eclipse IDE
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Eclipse IDE คือโปรแกรมที่เอาไว้ใช้เขียนโปรแกรมภาษา Java ภาษาจาวาเราจะเขียนด้วย notepad ก็ได้ตามใจ แต่ IDE เช่น Eclipse นั้นมีไว้เพื่อช่วยในการเขียนโปรแกรมโดยเฉพาะ ก็จะมี Tools ต่างๆให้เราเขียนโปรแกรมได้ง่ายขึ้นครับ
 ### Download
 - [Windows (32 bit)](http://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/neon/3/eclipse-java-neon-3-win32.zip
 )
